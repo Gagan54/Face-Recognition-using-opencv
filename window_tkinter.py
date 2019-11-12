@@ -152,7 +152,7 @@ lbl1.place(x=40, y=250)
 txt1 =Entry(window,width=20  ,bg="PaleGreen1"  ,fg="black",font=('arial', 15, ' bold ')  )
 txt1.place(x=225, y=260)
 
-lb2 =Label(window, text="Enter Roll No :",width=12 ,height=2  ,fg="black"  ,bg="cornsilk3" ,font=('arial', 18, ' bold ') ) 
+lb2 =Label(window, text="Enter Id :",width=12 ,height=2  ,fg="black"  ,bg="cornsilk3" ,font=('arial', 18, ' bold ') ) 
 lb2.place(x=40, y=325)
 
 txt2 =Entry(window,width=20 ,bg="PaleGreen1" ,fg="black",font=('arial', 15, ' bold '))
