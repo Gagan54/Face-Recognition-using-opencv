@@ -63,7 +63,7 @@ canvas=Canvas(width=1500,height=900,bg='cornsilk3')
 line1=canvas.create_line(450,100,450,800,width=8,fill='gray')
 canvas.pack()
 
-message=Label(window, text="Security System",bg="RoyalBlue4",fg="white",width=57,height=2,font=('arial', 30, 'bold underline')) 
+message=Label(window, text="FACE RECOGNITION SYSTEM",bg="RoyalBlue4",fg="white",width=57,height=2,font=('arial', 30, 'bold')) 
 message.place(x=0, y=0)
 
 Lb1=Label(window,text="Availale Users ",bg='Palegreen4',fg="white",width=16,height=2,font=('arial',18,'bold'))
